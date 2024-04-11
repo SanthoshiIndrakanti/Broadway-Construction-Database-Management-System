@@ -1,0 +1,2 @@
+# Broadway-Construction-Database-Management-System
+This project details the creation of database management system for Broadway Construction, utilizing SQL Server (SSMS) for both database structuring and detailed data query operations. The system's design focuses on enhancing operational efficiency and project management capabilities through sophisticated data relationships and analytical queries.
